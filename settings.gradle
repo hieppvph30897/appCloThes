@@ -1,0 +1,2 @@
+rootProject.name = "duanappCloThes"
+include ':app'
